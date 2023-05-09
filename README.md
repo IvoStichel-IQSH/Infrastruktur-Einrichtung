@@ -1,4 +1,4 @@
-# Infrastruktureinrichtung für den Informatik-Unterricht!
+# Infrastruktureinrichtung für den Informatik-Unterricht
 Guter Informatik-Unterricht zeichnet sich dadurch aus, dass Schülerinnen und Schüler die Möglichkeiten haben echte kleine Projekte zu realisieren und die Projekte online stellen können.
 In diesem git-Repository findet ihr alles, was es für den Aufbau einer rudimentären Infrastruktur braucht.
 
